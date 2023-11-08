@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="main_title">宠物市场</string>
+    <string name="dt_search">点击搜索</string>
+    <string name="dt_sort">价格排序</string>
+    <string name="dt_list">列表展示</string>
+    <string name="dt_grid">网格展示</string>
+</resources>
